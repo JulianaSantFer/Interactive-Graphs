@@ -27,7 +27,7 @@ JULIANA FERNANDES - 10503664----------------------------------------------------
 RUSHAB S.L. GOWDA – 10504936------------------------------------------------------------
 KARTHEEK PRASANNA - 10394030 ----------------------------------------------------------
 
-Each team member has contributed equally in each and every stage of the project from choosing the dataset to deploying it in the web. It would be unfair to judge any simgle team member of there performance and contribution.
+Each team member has contributed equally in each and every stage of the project from choosing the dataset to deploying it in the web. It would be unfair to judge any single team member of there performance and contribution.
 
 BUSINESS QUESTIONS 
 1.)	What is the overall performance of the players?
